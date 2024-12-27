@@ -2,7 +2,7 @@
 
 This repo contains exercises for learning Rust, extracted from [Google's Comprehensive Rust](https://google.github.io/comprehensive-rust/)
 
-# Cargo commands cheat sheet
+## Cargo commands cheat sheet
 
 ```bash
 cargo new --vcs=none my-new-project
